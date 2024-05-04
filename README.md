@@ -3,7 +3,7 @@ Olá, me chamo Renan. Sou policial militar em Pernambuco, atuando no setor de es
 
 ## Idiomas
 - Espanhol - Avançado (Nível C1)
-- InglÊs - Intermediário (Nível B2)
+- Inglês - Intermediário (Nível B2)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1F23?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-vanbasten-bb899817b)
