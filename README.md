@@ -1,5 +1,12 @@
 # Renan Vanbasten
-Olá, me chamo Renan. Sou policial militar em Pernambuco, atuando no setor de estatística e operações. Enquanto trabalho no cumprimento do dever, estou simultaneamente perseguindo minha paixão pela tecnologia. Estudo análise e desenvolvimento de sistemas com o objetivo de migrar completamente minha carreira para a área de tecnologia. Estou imerso nesse aprendizado, ansioso para contribuir com uma empresa, aplicando meu conhecimento e habilidades adquiridas, buscando constantemente evoluir e crescer
+Sou um profissional em transição de carreira para a área de TI, movido pela paixão por tecnologia e aprendizado contínuo. Minha primeira experiência na área foi como estagiário Fullstack na Compass UOL, onde atuei no desenvolvimento de soluções voltadas para e-commerce. Utilizando NestJS no backend e React com TypeScript no frontend, tive a oportunidade de aprofundar conhecimentos e aplicar práticas modernas de desenvolvimento, consolidando minha base técnica.
+
+Minha trajetória inclui experiências diversas: comecei como estagiário na Secretaria de Finanças do Recife, passei pelo setor de Recursos Humanos no Hospital Miguel Arraes e atuei como fisioterapeuta, focando em disfunções da coluna em homecare. Após ingressar na Polícia Militar, desempenhei funções administrativas, refinando minhas habilidades de organização e eficiência.
+
+Hoje, estou desenvolvendo habilidades em linguagens como JavaScript, HTML, CSS e TypeScript.
+Também possuo conhecimentos em análise de dados com Power BI e banco de dados como MySQL e PostgreSQL
+
+Estou entusiasmado em explorar novos desafios e contribuir para projetos inovadores na área de TI.
 
 ## Idiomas
 - Espanhol - Avançado (Nível C1)
