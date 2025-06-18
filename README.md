@@ -1,10 +1,11 @@
 # Renan Vanbasten
-Sou um profissional em transição de carreira para a área de TI, movido pela paixão por tecnologia e aprendizado contínuo. Minha primeira experiência na área foi como estagiário Fullstack na Compass UOL, onde atuei no desenvolvimento de soluções voltadas para e-commerce. Utilizando NestJS no backend e React com TypeScript no frontend, tive a oportunidade de aprofundar conhecimentos e aplicar práticas modernas de desenvolvimento, consolidando minha base técnica.
+Sou um profissional em transição de carreira para a área de Dados, impulsionado pela curiosidade, pela paixão por tecnologia e pelo aprendizado contínuo. Tenho experiência com Power BI, Python (especialmente com bibliotecas como Pandas) e SQL em bancos de dados como MySQL e PostgreSQL, ferramentas que utilizo para transformar dados em informações relevantes para a tomada de decisão.
 
-Minha trajetória inclui experiências diversas: comecei como estagiário na Secretaria de Finanças do Recife, passei pelo setor de Recursos Humanos no Hospital Miguel Arraes e atuei como fisioterapeuta, focando em disfunções da coluna em homecare. Após ingressar na Polícia Militar, desempenhei funções administrativas, refinando minhas habilidades de organização e eficiência.
+Minha primeira experiência na área de TI foi como estagiário Full Stack na Compass UOL, onde atuei no desenvolvimento de soluções para e-commerce utilizando NestJS no backend e React com TypeScript no frontend. Essa vivência me proporcionou uma base sólida em lógica de programação, integração com bancos de dados e desenvolvimento de sistemas, habilidades que se conectam com as necessidades técnicas de projetos em dados.
 
-Hoje, estou desenvolvendo habilidades em linguagens como JavaScript, HTML, CSS e TypeScript.
-Também possuo conhecimentos em análise de dados com Power BI e banco de dados como MySQL e PostgreSQL
+Antes da TI, passei por setores como finanças na Prefeitura do Recife, RH no Hospital Miguel Arraes e saúde, atuando como fisioterapeuta, focando em disfunções da coluna em homecare. Na Polícia Militar, atuei em funções administrativas, com destaque para a seção de Estatística, onde comecei a trabalhar com análise de dados aplicados à segurança pública, despertando ainda mais meu interesse por dados.
+
+Hoje, busco crescer profissionalmente na área de Dados, contribuindo com soluções baseadas em evidências, seja por meio de análises, dashboards, scripts em Python ou integrações com bancos de dados. Também continuo evoluindo em outras tecnologias como JavaScript, TypeScript, HTML e CSS.
 
 Estou entusiasmado em explorar novos desafios e contribuir para projetos inovadores na área de TI.
 
